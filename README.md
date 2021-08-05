@@ -1,4 +1,4 @@
-# war-game-python
+# WAR GAME USING PYTHON
 How to create War Game using Pyhton
 
 _This is just simulation of the game of "war" between two computer players._
